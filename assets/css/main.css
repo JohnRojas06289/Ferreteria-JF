@@ -164,7 +164,7 @@ header .menu{
 }
 .main {
     position: relative;
-    background-image: url('assets/images/portada.png'); 
+    background-image: url('https://d100mj7v0l85u5.cloudfront.net/s3fs-public/2023-06/clientes-de-una-ferreteria.png'); 
     background-size: cover;
     height: 37.2rem;
     color: #fff;
