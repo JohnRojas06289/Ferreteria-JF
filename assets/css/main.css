@@ -173,7 +173,7 @@ header .menu{
 
 .main{
     position: relative;
-    background-image: url('/assets/images/portada.png'); 
+    background-image: url('../assets/images/portada.png'); 
     background-size: cover;
     height: 37.2rem;
     color: #fff;
