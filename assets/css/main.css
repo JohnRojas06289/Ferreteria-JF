@@ -162,9 +162,9 @@ header .menu{
 .sub-section p {
     margin: 0 10px;
 }
-.main{
+.main {
     position: relative;
-    background-image: url('portada.png'); 
+    background-image: url('assets/images/portada.png'); 
     background-size: cover;
     height: 37.2rem;
     color: #fff;
@@ -173,7 +173,7 @@ header .menu{
     display: flex;
     flex-direction: column;
     justify-content: center;
-  }
+}
   .section-title h2{
     margin-left: 128px;
     display: inline-block;
